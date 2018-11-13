@@ -7,7 +7,7 @@ attr_accessor :kind
   end
 
 
-    def kind
-      @kind = equilateral if side_a
+#    def kind
+#      @kind = equilateral if side_a
 
 end
